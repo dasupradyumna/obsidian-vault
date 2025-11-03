@@ -1,0 +1,5 @@
+# Ignore Obsidian created temporary / local files
+
+.trash/
+.obsidian/workspace.json
+.obsidian/graph.json

@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "accentColor": "#5a5f58",
+  "interfaceFontFamily": "Noto Sans Mono",
+  "textFontFamily": "Noto Sans Mono",
+  "monospaceFontFamily": "Courier New",
+  "baseFontSize": 15,
+  "showViewHeader": false,
+  "showRibbon": false
+}
