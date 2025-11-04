@@ -1,0 +1,4 @@
+APT packages are installed at the system level using `sudo apt install <pkg>`. But some packages available via the APT package manager on Ubuntu can be installed at the user scope, if certain conditions are satisfied. This is useful on systems where the user does not have sufficient permissions to install a package, but still requires it.
+
+An APT package can be downloaded as a `.deb` package using `apt download <pkg>`. This Debian package can be installed at the system level using `dpkg -i <pkg>.deb` - identical to `sudo apt install <pkg>`. The downloaded Debian package can also be extracted using `dpkg -x <pkg>.deb <path>`, and the extracted contents have the file-system hierarchy ready for installation.
+**IF the binaries under `/usr/bin` are stand-alone** without any dependencies, then you can safely extract the binaries to the desired folder (usually `~/.local/bin`). This will install the package only for the user, without root access.
