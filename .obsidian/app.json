@@ -14,5 +14,6 @@
   "attachmentFolderPath": "assets",
   "useMarkdownLinks": true,
   "showInlineTitle": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showIndentGuide": false
 }

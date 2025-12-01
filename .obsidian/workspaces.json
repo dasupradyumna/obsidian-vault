@@ -1,0 +1,426 @@
+{
+  "workspaces": {
+    "pde": {
+      "main": {
+        "id": "672a19d456fd3203",
+        "type": "split",
+        "children": [
+          {
+            "id": "8c8599655c52cd1c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3ffd3af1774c43e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "logs/2025-tasks.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-tasks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e6a9cade134faab9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e3c32c35743739e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "projects/pde.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "pde"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f0145f2362ae293e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a2fd3e9258beb912",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea16b0100e8f117b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "37c8c84531412637",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "repo",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "76967ddf46767a46",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "c9d43daa6d70b20c",
+        "type": "split",
+        "children": [
+          {
+            "id": "081b123960680beb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1945ebfed5932984",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "logs/2025-tasks.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-tasks"
+                }
+              },
+              {
+                "id": "818127bb001b2df9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "knowledge-base/tools/git-crypt.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from git-crypt"
+                }
+              },
+              {
+                "id": "3bf29d84aed130df",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "8918586ea666a2f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "logs/2025-tasks.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-tasks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 424.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "e3c32c35743739e9",
+      "mtime": "2025-11-19T12:24:28+05:30"
+    },
+    "vimaan": {
+      "main": {
+        "id": "672a19d456fd3203",
+        "type": "split",
+        "children": [
+          {
+            "id": "b5c545dcdf8c1032",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d77837549d91e654",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "logs/2025-tasks.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-tasks"
+                }
+              },
+              {
+                "id": "6d35e4234e3df3e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vimaan-robotics/lisper-to-do.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lisper-to-do"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "53c0afc061f97877",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6a1fcbaa32eb6409",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vimaan-robotics/at41-gate3-progress.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "at41-gate3-progress"
+                }
+              },
+              {
+                "id": "e8dbabf347d69185",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vimaan-robotics/encom-ui-progress.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "encom-ui-progress"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f0145f2362ae293e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a2fd3e9258beb912",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea16b0100e8f117b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "37c8c84531412637",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "repo",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "76967ddf46767a46",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "c9d43daa6d70b20c",
+        "type": "split",
+        "children": [
+          {
+            "id": "081b123960680beb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1945ebfed5932984",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "vimaan-robotics/lisper/at41-gate3-progress.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for at41-gate3-progress"
+                }
+              },
+              {
+                "id": "818127bb001b2df9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "knowledge-base/tools/git-crypt.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from git-crypt"
+                }
+              },
+              {
+                "id": "3bf29d84aed130df",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "8918586ea666a2f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "logs/2025-tasks.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-tasks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 424.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "6a1fcbaa32eb6409",
+      "mtime": "2025-11-21T00:44:41+05:30"
+    }
+  },
+  "active": "pde"
+}

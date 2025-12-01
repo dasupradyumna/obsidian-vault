@@ -252,5 +252,13 @@
       ],
       "key": "F"
     }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
   ]
 }

@@ -1,1 +1,5 @@
+_templates_/** filter=git-crypt diff=git-crypt
+aider-chats/** filter=git-crypt diff=git-crypt
 logs/** filter=git-crypt diff=git-crypt
+projects/** filter=git-crypt diff=git-crypt
+vimaan-robotics/** filter=git-crypt diff=git-crypt
