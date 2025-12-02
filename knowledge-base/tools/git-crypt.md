@@ -40,6 +40,14 @@ ignore_item !filter !diff
 ```
 GPG-encrypted AES (.git-crypt) >> Raw AES (memory) >> Default-encrypted AES (.git/git-crypt)
 ```
+
+> [!WARNING] Mismatched **git-crypt** versions
+> When cloning the repository on a new device with a different **git-crypt** version, it is possible that `git-crypt unlock` gives this error even with GPG keys loaded -
+> (this was observed between 0.7.0 and 0.8.0)
+> ```
+> git-crypt: This repository contains a malformed key file. It may be corrupted.
+> ```
+> When this happens, unlock the repository using direct decryption (below).
 ### Direct Decryption
 Optionally, the repo can be decrypted directly using the raw AES key obtained from `git-crypt export-key`.
 Run `git-crypt unlock <raw-aes>` to immediately decrypt the repo, without involving GPG at all. **But this method is much more prone to security breach**
